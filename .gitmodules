@@ -1,0 +1,15 @@
+[submodule "cpp_helper"]
+	path = cpp_helper
+	url = https://github.com/water-chika/cpp_helper
+[submodule "complex_number"]
+	path = complex_number
+	url = https://github.com/water-chika/complex_number
+[submodule "hip_helper"]
+	path = hip_helper
+	url = https://github.com/water-chika/hip_helper
+[submodule "linear_algebra"]
+	path = linear_algebra
+	url = https://github.com/water-chika/linear_algebra
+[submodule "linear_algebra_test"]
+	path = linear_algebra_test
+	url = https://github.com/water-chika/linear_algebra_test
